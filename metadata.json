@@ -1,0 +1,6 @@
+{
+  "name": "Polwel ERP System",
+  "description": "High-performance native Android enterprise inventory management. Architected by Khalid Hasan Limon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
